@@ -4,7 +4,7 @@ Stripe.
 
 **Link to project:** https://amazon-clone15.herokuapp.com/
 
-![amazona](/frontend/public/images/amazona.jpg)
+![amazona](/frontend/public/images/amazona-clone-homepage)
 
 ## How It's Made:
 
